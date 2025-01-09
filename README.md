@@ -22,9 +22,21 @@ To exactly see the changes made on a single file:
 
     git diff
 
-To stage the changes
+To stage the changes for particular file:
 
     git add <filename>
 
+To stage all the changes at once:
 
+    git add *
+     
+To commit the changes:
 
+    git commit -m "commit message"
+
+To push the changes:
+
+    git push origin <sourceBranch>
+
+        class01 -> main
+    ex: git push origin class01
