@@ -58,3 +58,23 @@ To get the latest changes
 To create new branch
 
     git checkout -b <new branch name>
+
+
+## Course Completed
+
+[class 00](link)
+
+    00. Dev setup
+        installing IDE/Editor
+        installing python and local setup
+        github access, creating project
+
+[class 01](link)
+
+        git commands
+        markdown syntax
+        daily activity and usage
+        
+    01. Introduction
+    Importance of python
+    Two versions of python (2.x & 3.x)    
