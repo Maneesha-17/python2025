@@ -1,0 +1,13 @@
+00. Dev setup
+    Installing IDE/Editor
+    Installing python and local setup
+    Github access, creating project
+
+01. Introduction
+    Importance of python
+    Two versions of python (2.x & 3.x)
+    Built-in functions
+    Comment operator
+    Keywords and Identifiers
+    Line continuation and statement separator operators
+    
