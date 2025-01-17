@@ -10,4 +10,3 @@
     Comment operator
     Keywords and Identifiers
     Line continuation and statement separator operators
-    
