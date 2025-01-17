@@ -76,5 +76,13 @@ To create new branch
         daily activity and usage
         
     01. Introduction
-    Importance of python
-    Two versions of python (2.x & 3.x)    
+        Importance of python
+        Two versions of python (2.x & 3.x)
+
+        PEP 8 guidelines (https://peps.python.org/pep-0008/) 
+        shebang line   
+        Built-in functions
+        Comment operator
+        Keywords and Identifiers
+        Line continuation and statement separator operators
+
