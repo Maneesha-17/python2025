@@ -81,6 +81,7 @@ To create new branch
 
         PEP 8 guidelines (https://peps.python.org/pep-0008/) 
         shebang line   
+        Indentation issues and best practices
         Built-in functions
         Comment operator
         Keywords and Identifiers
