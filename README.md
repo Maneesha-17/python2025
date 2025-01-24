@@ -14,6 +14,10 @@ To create a branch:
 
     git checkout -b class01
 
+To checkout to an existing branch:
+
+    git checkout <branchname>
+
 To see the latest local status:
 
     git status
@@ -82,6 +86,10 @@ To create new branch
         PEP 8 guidelines (https://peps.python.org/pep-0008/) 
         shebang line   
         Indentation issues and best practices
+        Script mode and Interactive mode
+        Print function
+        Jupyter notebook usage
+        ASCII and Unicode characters
         Built-in functions
         Comment operator
         Keywords and Identifiers
